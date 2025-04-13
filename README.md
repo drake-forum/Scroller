@@ -1,1 +1,1 @@
-try the scroller {here}(https://justscroller.netlify.app/).
+try the scroller [here](https://justscroller.netlify.app/).
